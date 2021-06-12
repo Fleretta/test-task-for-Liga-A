@@ -76,6 +76,8 @@ const CardTopContainer = styled.div`
 `;
 
 const FlightName = styled.div`
+  margin-right: 1em;
+  
   font-size: 32px;
   font-weight: 600;
 
